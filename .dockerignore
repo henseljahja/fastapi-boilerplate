@@ -1,0 +1,7 @@
+__pycache__
+.git
+testing
+tests
+__pycache__
+.venv/
+notebooks/
